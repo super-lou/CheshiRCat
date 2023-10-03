@@ -1,0 +1,17 @@
+Package: CheshiRCat
+Version: 0.0.1
+Date: 1865-11-01
+Title: CheshiRCat
+Description: Twas brillig, and the slithy toves. Did gyre and gimble in the wabe; All mimsy were the borogoves, And the mome raths outgrabe.
+Authors@R: c(
+    person(given = "Alice",
+           family = "Alice",
+           role = c("cre", "aut"),
+           email = "alice@wonderland.uk")
+    )
+Encoding: UTF-8
+License: GPL-3 + file LICENSE
+Imports:
+    forcats,
+    pillar
+RoxygenNote: 7.2.3
