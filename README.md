@@ -2,7 +2,7 @@
 
 <!-- badges: start -->
 [![Lifecycle:Dormant](https://img.shields.io/badge/Lifecycle-Dormant-ff7f2a)](<Redirect-URL>)
-![](https://img.shields.io/github/last-commit/alice_adventures/CheshiRCat)
+![](https://img.shields.io/github/last-commit/super-lou/CheshiRCat)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 <!-- badges: end -->
 
