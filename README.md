@@ -14,7 +14,7 @@ This project was carried out for National Research Institute for Agriculture, Fo
 ## Installation
 For latest development version
 ``` r
-remotes::install_github('alice_adventures/CheshiRCat')
+remotes::install_github('super-lou/CheshiRCat')
 ```
 
 
