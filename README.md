@@ -1,4 +1,4 @@
-# CheshiRCat [<img src="https://github.com/super-lou/packageR/raw/main/AE/AE_hex_000000.png" align="right" width=160 height=160 alt=""/>](https://www.inrae.fr/en)
+# CheshiRCat [<img src="AE_hex_ffffff.png" align="right" width=160 height=160 alt=""/>](https://www.inrae.fr/en)
 
 <!-- badges: start -->
 [![Lifecycle:Dormant](https://img.shields.io/badge/Lifecycle-Dormant-ff7f2a)](<Redirect-URL>)
